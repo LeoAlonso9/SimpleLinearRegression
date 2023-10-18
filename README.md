@@ -1,1 +1,1 @@
-# SimpleLinearRegression
+This code shows a simple linear regression algorithm using control flow concepts in Python. It calculates the regression coefficients (slope and intercept) for a given data set and use them to make predictions.
